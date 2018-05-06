@@ -24,8 +24,8 @@ def haversine1(lon1, lat1, lon2, lat2):  # 经度1，纬度1，经度2，纬度2
 start_all = datetime.datetime.now()
 
 # path
-path_train = "/data/dm/train.csv"  # 训练文件路径
-path_test = "/data/dm/test.csv"  # 测试文件路径
+path_train = "./data/dm/train.csv"  # 训练文件路径
+path_test = "./data/dm/test.csv"  # 测试文件路径
 
 # read train data
 data = pd.read_csv(path_train)
