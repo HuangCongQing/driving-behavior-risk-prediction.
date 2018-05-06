@@ -1,0 +1,7 @@
+# 忽略process文件夹
+/process/ 
+# 指定过滤某个文件
+/code/ main1.py
+# 过滤全部内容但是不过滤指定内容
+/code/*
+!/code/main.py
