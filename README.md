@@ -1,5 +1,7 @@
 # driving-behavior-risk-prediction.
 2018平安产险数据建模大赛 驾驶行为预测驾驶风险 
+Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Thx
+
 
 ### 比赛链接
 
