@@ -19,3 +19,8 @@
 
 ### 相关文章
 * http://blog.51cto.com/yixianwei/2120336
+
+### License
+Copyright (c) [ChungKing](https://github.com/HuangCongQing/driving-behavior-risk-prediction). All rights reserved.
+
+Licensed under the [MIT](./LICENSE) License.
